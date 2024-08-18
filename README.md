@@ -20,7 +20,8 @@ Pandas & NumPy: For data cleaning and feature engineering.
 Matplotlib & Seaborn: For data visualization and EDA.
 Scikit-learn: For implementing K-means clustering and Hierarchical Clustering.
 SciPy: For hierarchical clustering analysis.
-Insights:
+
+- Insights:
 
 Top-Paying Job Titles:
 
