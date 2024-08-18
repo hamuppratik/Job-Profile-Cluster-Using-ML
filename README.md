@@ -1,4 +1,5 @@
-Scaler (Acedemy) Learner Clustering using ML and Job Profile Analysis
+Scaler Learner Clustering using ML and Job Profile Analysis
+ - Scaler is an ed-tech platform that offers online programs for techies to learn industry-relevant skills and get career outcomes. 
 
 Objective:
 
