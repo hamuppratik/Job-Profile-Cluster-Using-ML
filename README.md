@@ -1,28 +1,18 @@
 Learner Clustering using ML and Job Profile Analysis
 
 Objective:
+
 The goal of this project was to cluster learners from the Scaler database based on their job profiles, companies, and other features. The purpose was to identify groups with similar characteristics, which would help in profiling the best companies and job positions. This clustering would aid learners in making informed career decisions and optimizing the curriculum to better serve their needs.
 
 Key Tasks:
 
-Data Understanding:
+Data Understanding: Examined the dataset to understand the features and their relationships.
+Data Cleaning: Handled missing values, outliers, and resolved any data inconsistencies.
+Exploratory Data Analysis (EDA):Gained insights into the distribution and patterns in the data.
+Feature Engineering: Created meaningful features that enhanced the clustering process.
+Clustering Analysis: Applied K-means and Hierarchical Clustering algorithms to identify groups of similar learners.
+Cluster Profiling: Analyzed and interpreted the clusters to understand their characteristics and the types of job profiles and companies they represent.
 
-Examined the dataset to understand the features and their relationships.
-Data Cleaning:
-
-Handled missing values, outliers, and resolved any data inconsistencies.
-Exploratory Data Analysis (EDA):
-
-Gained insights into the distribution and patterns in the data.
-Feature Engineering:
-
-Created meaningful features that enhanced the clustering process.
-Clustering Analysis:
-
-Applied K-means and Hierarchical Clustering algorithms to identify groups of similar learners.
-Cluster Profiling:
-
-Analyzed and interpreted the clusters to understand their characteristics and the types of job profiles and companies they represent.
 Technologies Used:
 
 Python: For data manipulation and analysis.
@@ -35,9 +25,11 @@ Insights:
 Top-Paying Job Titles:
 
 The highest-paying job titles included ‘Engineering Leadership’, ‘Backend Engineer’, ‘Product Manager’, ‘Program Manager’, ‘SDET’, ‘QA Engineer’, ‘Data Scientist’, ‘Android Engineer’, and ‘Full Stack Engineer’.
+
 Leading Companies:
 
 The top companies offering the highest salaries were ‘Cisco’, ‘Intel Technology India Pvt Ltd’, ‘Amazon’, ‘Walmart Labs’, ‘Symantec’, ‘Schneider Electric India’, ‘Morgan Stanley’, ‘Ericsson RD Bangalore’, and ‘Samsung Electronics’.
+
 Salary Trends:
 
 Among these top-paying companies, salaries have been declining in recent years for companies like Goldman Sachs, Tata Consultancy Services, Samsung Electronics, VMware, Dell, DBS Bank, HSBC Software Development India, and GE.
